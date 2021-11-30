@@ -4,3 +4,5 @@ make a difference.
 not in origin
 
 line not in master but in tt
+
+i was written in master(same part in issue)
